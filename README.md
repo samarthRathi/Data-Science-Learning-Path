@@ -1,3 +1,6 @@
+**Note**: This is just the setup, updated details will be pushed soon.....!!!
+
+
 # Path to Becoming a Data Scientist
 
 Welcome to the journey of becoming a data scientist! This README file will guide you through the steps and resources to help you navigate this exciting and rewarding career path.
